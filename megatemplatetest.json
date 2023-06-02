@@ -846,6 +846,9 @@
         "container": "/var/run/docker.sock",
         "bind": "/var/run/docker.sock"
       },
+
+
+
  [
     {
       "categories": ["Other"],
@@ -4355,9 +4358,8 @@
           "container": "/config"
         }
       ]
-    }
-  ]
 }
+]
 
 
 
